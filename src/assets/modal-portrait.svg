@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="Stylized portrait of a beautiful woman">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffd1dc"/>
+      <stop offset="55%" stop-color="#fbcfe8"/>
+      <stop offset="100%" stop-color="#ddd6fe"/>
+    </linearGradient>
+    <linearGradient id="skin" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f5c6a5"/>
+      <stop offset="100%" stop-color="#e7a67f"/>
+    </linearGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="0.9" y2="1">
+      <stop offset="0%" stop-color="#3a1f1a"/>
+      <stop offset="100%" stop-color="#6b2f26"/>
+    </linearGradient>
+    <linearGradient id="dress" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f43f5e"/>
+      <stop offset="100%" stop-color="#db2777"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="800" fill="url(#bg)"/>
+  <circle cx="400" cy="280" r="180" fill="url(#hair)"/>
+  <ellipse cx="400" cy="320" rx="135" ry="165" fill="url(#skin)"/>
+  <path d="M300 285c35-80 165-80 200 0 20 45 20 105 0 150-25-30-60-48-100-48s-75 18-100 48c-20-45-20-105 0-150z" fill="url(#hair)"/>
+  <ellipse cx="352" cy="325" rx="12" ry="7" fill="#3f2d2a"/>
+  <ellipse cx="448" cy="325" rx="12" ry="7" fill="#3f2d2a"/>
+  <path d="M360 390c25 22 55 22 80 0" fill="none" stroke="#b91c1c" stroke-width="10" stroke-linecap="round"/>
+  <path d="M250 680c28-138 123-198 150-198s122 60 150 198z" fill="url(#dress)"/>
+  <path d="M312 470c30 30 146 30 176 0-8 68-52 112-88 112s-80-44-88-112z" fill="#f3b18f"/>
+</svg>
