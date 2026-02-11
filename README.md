@@ -52,8 +52,8 @@
   ### Clone
 
   ```bash
-  git clone <your-repo-url>
-  cd "Proposal Website with Animations"
+  git clone https://github.com/Kimanzi-Collins/Valentines-Proposal
+  cd "Valentines-Proposal"
   npm install
   npm run dev
   ```
@@ -75,13 +75,9 @@
 
   ## Support / Sponsor
 
-  - Sponsor: `https://github.com/sponsors/<your-github-username>`
-  - Donate (PayPal): `https://paypal.me/<your-paypal-handle>`
-  - Buy me a coffee: `https://buymeacoffee.com/<your-handle>`
+  - Sponsor: `https://github.com/sponsors/Kimanzi-Collins`
 
-  Replace the placeholders above with your real links.
-
-  ---
+    ---
 
   Made with love for Valentine season.
 
